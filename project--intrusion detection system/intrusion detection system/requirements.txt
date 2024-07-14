@@ -1,0 +1,10 @@
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install pandas-profiling
+pip install statsmodels
+pip install patsy
+pip install scikit-learn
+pip install joblib==0.14.1
+gunicorn==19.9.0
